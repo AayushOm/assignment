@@ -1,0 +1,24 @@
+.dashContainer{
+    min-height: 90vh;
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    background: rgb(240, 240, 244);
+    padding: 5px 10px;
+
+}
+
+.dashCardContainer{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    gap: 5px;
+    width : 300px;
+    
+}
+
+.morefunc{
+    margin-bottom: 10px;
+    padding: 2px;
+}
